@@ -1,7 +1,7 @@
-//  Isso é um comentário de uma linha.
+// comentário de uma linha.
 
-/* Isso é um
-comentário de múltiplas linhas */
+/* comentário de
+ múltiplas linhas */
 
 //"undefined, null, boolean, string, symbol, bigint, number e object" são os 8 dados fornecidos pelo JavaScript.
 
